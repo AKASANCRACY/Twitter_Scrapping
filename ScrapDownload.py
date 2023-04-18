@@ -1,8 +1,9 @@
 #Importing the required modules for the project
-import Download
 import streamlit as st
 import pymongo
 import pandas as pd
+#Modules created for this project
+import Download
 
 #specifying the server address to connect with MongoDB
 client = pymongo.MongoClient('mongodb://127.0.0.1:27017/')
