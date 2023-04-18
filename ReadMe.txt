@@ -3,7 +3,7 @@ Pre-Requisites:
 1. Python (Added to environmental path)
 2. streamlit, pandas, pymongo, snscrape, langdetect, iso_language_codes, datetime. These all are the python libraries that shoul be available in the system.
 3. MongoDB
-4. Browser
+4. Browser(Example Chrome, FireFox, ect,.)
 
 
 How to run it?
