@@ -8,7 +8,7 @@ Pre-Requisites:
 
 How to run it?
 
-1. Download the zip file(Twitter_Scrap).
+1. Download the zip file(Twitter_Scrapping-master).
 2. Extract the zip file.
 3. In the extracted folder "TwitterScraper.py" is the main file other files are subfiles which has function defined to do certain task
 4. Open command prompt and move towards the directory where the files are located.
