@@ -1,3 +1,6 @@
+Linked in video link : https://www.linkedin.com/posts/prakash-subramanian-b5467b65_this-is-a-mini-project-to-develop-knowledge-activity-7054142226469171200-kyfX?utm_source=share&utm_medium=member_desktop
+
+
 Pre-Requisites:
 
 1. Python (Added to environmental path)
