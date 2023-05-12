@@ -16,7 +16,7 @@ How to run it?
 3. In the extracted folder "TwitterScraper.py" is the main file other files are subfiles which has function defined to do certain task
 4. Open command prompt and move towards the directory where the files are located.
 5. Run the command "streamlit run TwitterScraper.py" or "streamlit run .\TwitterScraper.py" in the command prompt after moving towards the files directory.
-6. A page will be loaded in the browser or in command prompt or we can manually open the page by accessing the which will be displayed in the command prompt.
+6. A page will be loaded in the browser or in command prompt or we can manually open the page by accessing the link which will be displayed in the command prompt.
 Example:
 	Local URL: http://localhost:8501
 	Network URL: http://192.168.155.158:8501
